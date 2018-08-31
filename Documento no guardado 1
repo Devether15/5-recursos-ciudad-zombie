@@ -1,0 +1,18 @@
+1. Objetos:
+
+- Juego
+-jugador
+- tren
+- obstaculo
+- zombieCaminnate
+-ZombieConductor
+
+2. Responsabilidades
+
+- Juego{dibujar, mover, chequear colicion}
+- jugador{mover}
+- Tren{mover, atacar jugador}
+- Zombie{mover, atacar jugador}
+- Obstaculo{atacar jugador}
+
+
